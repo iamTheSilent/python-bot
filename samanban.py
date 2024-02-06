@@ -14,7 +14,7 @@ from telegram import Update
 from telegram.chataction import ChatAction
 
 
-Token = "6646963907:AAHuru4PeoRVzhj4PWoEil-Q1V4463eA5Jg"
+Token = ""
 message= {
     "msg_start":"سلام {} {} \n به ربات رسمی سامان بان خوش آمدید",
     "msg_menu1":"یک",
